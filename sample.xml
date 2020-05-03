@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "http://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+    <PubmedArticle>
+        <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+            <PMID Version="1">29621448</PMID>
+            <DateCompleted>
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>17</Day>
+            </DateCompleted>
+            <DateRevised>
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>17</Day>
+            </DateRevised>
+            <Article PubModel="Print">
+                <Journal>
+                    <ISSN IssnType="Electronic">1536-0075</ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>18</Volume>
+                        <Issue>4</Issue>
+                        <PubDate>
+                            <Year>2018</Year>
+                            <Month>04</Month>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>The American journal of bioethics : AJOB</Title>
+                    <ISOAbbreviation>Am J Bioeth</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Conflicts Between Regulations and Ethical Principles: Resolving Ambiguity in Favor of the Ethically Preferable Outcome.</ArticleTitle>
+                <Pagination>
+                    <MedlinePgn>93-94</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="doi" ValidYN="Y">10.1080/15265161.2018.1431704</ELocationID>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Shah</LastName>
+                        <ForeName>Seema K</ForeName>
+                        <Initials>SK</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>a Seattle Children's Research Institute.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Porter</LastName>
+                        <ForeName>Kathryn</ForeName>
+                        <Initials>K</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>a Seattle Children's Research Institute.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <GrantList CompleteYN="Y">
+                    <Grant>
+                        <GrantID>UL1 TR002319</GrantID>
+                        <Acronym>TR</Acronym>
+                        <Agency>NCATS NIH HHS</Agency>
+                        <Country>United States</Country>
+                    </Grant>
+                </GrantList>
+                <PublicationTypeList/>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>United States</Country>
+                <MedlineTA>Am J Bioeth</MedlineTA>
+                <NlmUniqueID>100898738</NlmUniqueID>
+                <ISSNLinking>1526-5161</ISSNLinking>
+            </MedlineJournalInfo>
+            <CitationSubset>E</CitationSubset>
+            <CitationSubset>IM</CitationSubset>
+            <MeshHeadingList>
+                <MeshHeading>
+                    <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D009014" MajorTopicYN="Y">Morals</DescriptorName>
+                </MeshHeading>
+            </MeshHeadingList>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2018</Year>
+                    <Month>4</Month>
+                    <Day>6</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2018</Year>
+                    <Month>4</Month>
+                    <Day>6</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2019</Year>
+                    <Month>6</Month>
+                    <Day>7</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>ppublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">29621448</ArticleId>
+                <ArticleId IdType="doi">10.1080/15265161.2018.1431704</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+    <PubmedArticle>
+        <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+            <PMID Version="1">29953266</PMID>
+            <DateCompleted>
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+            </DateCompleted>
+            <DateRevised>
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+            </DateRevised>
+            <Article PubModel="Print-Electronic">
+                <Journal>
+                    <ISSN IssnType="Electronic">1525-6006</ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>40</Volume>
+                        <Issue>6</Issue>
+                        <PubDate>
+                            <Year>2018</Year>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>Clinical and experimental hypertension (New York, N.Y. : 1993)</Title>
+                    <ISOAbbreviation>Clin. Exp. Hypertens.</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Recommended standards for assessing blood pressure in human research where blood pressure or hypertension is a major focus.</ArticleTitle>
+                <Pagination>
+                    <MedlinePgn>509-513</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="doi" ValidYN="Y">10.1080/10641963.2017.1281939</ELocationID>
+                <Abstract>
+                    <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Although inaccurate, non-reproducible blood pressure values can result from non-standardized assessments, recommended approaches to standardize blood pressure measurement are often not followed in research studies.</AbstractText>
+                    <AbstractText Label="METHODS" NlmCategory="METHODS">An expert consensus of national and international health and scientific organizations developed recommended minimum standards for assessing blood pressure in research subjects where: 1) blood pressure or hypertension is a major endpoint, or 2) blood pressure is likely a major mediator of the research outcome.</AbstractText>
+                    <AbstractText Label="RESULTS" NlmCategory="RESULTS">Minimum research standards are presented for training of observers, technical aspects of assessing blood pressure, and equipment for both adults and children.</AbstractText>
+                    <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">The standards are based on prior recommendations some of which did not conform to the current evidence based methods.</AbstractText>
+                    <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">All new research should require adherence to these minimum standards on the patient populations described above. Readers need to use caution in interpreting studies if the standards are not met in the defined populations.</AbstractText>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Consortium</LastName>
+                        <ForeName>True</ForeName>
+                        <Initials>T</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>a American Heart Association , Dallas , USA.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>b British Hypertension Society , Edinburgh , United Kingdom.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>c Chinese Regional Office of the World Hypertension League , Beijing , China.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>d Hypertension Canada , Markham , Ontario.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>e International Council of Cardiovascular Prevention and Rehabilitation , Toronto , Canada.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>f International Society of Hypertension , Teddington , United Kingdom.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>g International Society of Nephrology , Brussels , Belgium.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>h Pan American Health Organization/World Health Organization Technical Advisory Group on Cardiovascular Diseases , Geneva , Switzerland.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>i World Hypertension League , Corvallis , USA.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>j World Stroke Organization , Geneva , Switzerland.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <PublicationTypeList>
+                    <PublicationType UI="D016446">Consensus Development Conference</PublicationType>
+                    <PublicationType UI="D016428">Journal Article</PublicationType>
+                </PublicationTypeList>
+                <ArticleDate DateType="Electronic">
+                    <Year>2018</Year>
+                    <Month>06</Month>
+                    <Day>28</Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>England</Country>
+                <MedlineTA>Clin Exp Hypertens</MedlineTA>
+                <NlmUniqueID>9305929</NlmUniqueID>
+                <ISSNLinking>1064-1963</ISSNLinking>
+            </MedlineJournalInfo>
+            <CitationSubset>IM</CitationSubset>
+            <MeshHeadingList>
+                <MeshHeading>
+                    <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D035843" MajorTopicYN="N">Biomedical Research</DescriptorName>
+                    <QualifierName UI="Q000592" MajorTopicYN="Y">standards</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D001794" MajorTopicYN="N">Blood Pressure</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D001795" MajorTopicYN="N">Blood Pressure Determination</DescriptorName>
+                    <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+                    <QualifierName UI="Q000592" MajorTopicYN="Y">standards</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D017408" MajorTopicYN="N">Guidelines as Topic</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D006973" MajorTopicYN="N">Hypertension</DescriptorName>
+                    <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D056888" MajorTopicYN="N">Patient Positioning</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D012015" MajorTopicYN="N">Reference Standards</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D012108" MajorTopicYN="N">Research Personnel</DescriptorName>
+                    <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D012146" MajorTopicYN="N">Rest</DescriptorName>
+                </MeshHeading>
+            </MeshHeadingList>
+            <KeywordList Owner="NOTNLM">
+                <Keyword MajorTopicYN="N">Blood pressure</Keyword>
+                <Keyword MajorTopicYN="N">blood pressure measurement</Keyword>
+                <Keyword MajorTopicYN="N">epidemiology</Keyword>
+                <Keyword MajorTopicYN="N">hypertension</Keyword>
+                <Keyword MajorTopicYN="N">research</Keyword>
+                <Keyword MajorTopicYN="N">research standards</Keyword>
+            </KeywordList>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2018</Year>
+                    <Month>6</Month>
+                    <Day>29</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2018</Year>
+                    <Month>11</Month>
+                    <Day>1</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2018</Year>
+                    <Month>6</Month>
+                    <Day>29</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>ppublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">29953266</ArticleId>
+                <ArticleId IdType="doi">10.1080/10641963.2017.1281939</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+    <PubmedArticle>
+        <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+            <PMID Version="1">31834760</PMID>
+            <DateRevised>
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+            </DateRevised>
+            <Article PubModel="Print-Electronic">
+                <Journal>
+                    <ISSN IssnType="Electronic">1089-7690</ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>111</Volume>
+                        <Issue>1</Issue>
+                        <PubDate>
+                            <Year>1999</Year>
+                            <Month>Jul</Month>
+                            <Day>01</Day>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>The Journal of chemical physics</Title>
+                    <ISOAbbreviation>J Chem Phys</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Definition and properties of the emission anisotropy in the absence of cylindrical symmetry of the emission field: Application to the light quenching experiments.</ArticleTitle>
+                <Pagination>
+                    <MedlinePgn>89-99</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="doi" ValidYN="Y">10.1063/1.479256</ELocationID>
+                <Abstract>
+                    <AbstractText>We considered the properties of the fluorescence anisotropy when the cylindrical symmetry of the fluorescence emission field is absent due to the effects of polarized light quenching. By light quenching we mean stimulated emission by a second longer wavelength pulse following the excitation pulse. In these experiments one observes the excited state population which remains following stimulated emission. When cylindrical symmetry is not present the generally known definition of the emission anisotropy cannot be applied. A generalized theory of anisotropy was described previously by Jabloński. However, we found this formalism to be inadequate for the expected experimental results of light quenching. An extension of this concept, which we call an anisotropy vector, appears capable of describing the expected orientation under all conditions of light quenching. We found that the anisotropy vector can exist within a plane defined by two projections <i>r</i> <sub><i>H</i></sub> and <i>r</i> <sub><i>V</i></sub> . The projection <i>r</i> <sub><i>V</i></sub> is comparable to the classical steady state or time-dependent anisotropy with cylindrical symmetry. The projection <i>r</i> <sub><i>H</i></sub> has no direct analogue in classical anisotropy theory. The interesting behavior of the anisotropy vector is that all possible points (<i>r</i> <sub><i>H</i></sub> , <i>r</i> <sub><i>V</i></sub> ) are placed inside a certain triangle, which we call a triangle of anisotropy. For symmetrical molecules, or for molecules which display isotropic depolarizing rotations, the anisotropy vector is expected to decay on the anisotropy triangle along straight lines towards the origin. The concept of the anisotropy vector should allow predictions of the effect of polarized light quenching on the anisotropy decays, and suggests experimental methods to study anisotropy decays in the presence of light quenching. Further work is needed to apply these concepts to anisotropic rotators.</AbstractText>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Kuśba</LastName>
+                        <ForeName>Józef</ForeName>
+                        <Initials>J</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Center for Fluorescence Spectroscopy, Department of Biochemistry and Molecular Biology, University of Maryland at Baltimore, Baltimore, Maryland 21201.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Lakowicz</LastName>
+                        <ForeName>Joseph R</ForeName>
+                        <Initials>JR</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Center for Fluorescence Spectroscopy, Department of Biochemistry and Molecular Biology, University of Maryland at Baltimore, Baltimore, Maryland 21201.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <PublicationTypeList/>
+                <ArticleDate DateType="Electronic">
+                    <Year>1999</Year>
+                    <Month>06</Month>
+                    <Day>21</Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>United States</Country>
+                <MedlineTA>J Chem Phys</MedlineTA>
+                <NlmUniqueID>0375360</NlmUniqueID>
+                <ISSNLinking>0021-9606</ISSNLinking>
+            </MedlineJournalInfo>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2019</Year>
+                    <Month>12</Month>
+                    <Day>14</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>1999</Year>
+                    <Month>7</Month>
+                    <Day>1</Day>
+                    <Hour>0</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>1999</Year>
+                    <Month>7</Month>
+                    <Day>1</Day>
+                    <Hour>0</Hour>
+                    <Minute>1</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>ppublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">31834760</ArticleId>
+                <ArticleId IdType="doi">10.1063/1.479256</ArticleId>
+                <ArticleId IdType="pmc">PMC6904223</ArticleId>
+            </ArticleIdList>
+            <?nihms ?>
+        </PubmedData>
+    </PubmedArticle>
+</PubmedArticleSet>

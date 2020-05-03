@@ -1,0 +1,569 @@
+{"PubmedArticleSet": {"PubmedArticle": [
+    {
+        "MedlineCitation": {
+            "Status": "MEDLINE",
+            "MedlineJournalInfo": {
+                "NlmUniqueID": 100898738,
+                "Country": "United States",
+                "ISSNLinking": "1526-5161",
+                "MedlineTA": "Am J Bioeth"
+            },
+            "Owner": "NLM",
+            "CitationSubset": [
+                "E",
+                "IM"
+            ],
+            "DateCompleted": {
+                "Month": "07",
+                "Year": 2019,
+                "Day": 17
+            },
+            "IndexingMethod": "Automated",
+            "Article": {
+                "Pagination": {"MedlinePgn": "93-94"},
+                "GrantList": {
+                    "CompleteYN": "Y",
+                    "Grant": {
+                        "Agency": "NCATS NIH HHS",
+                        "Country": "United States",
+                        "GrantID": "UL1 TR002319",
+                        "Acronym": "TR"
+                    }
+                },
+                "PublicationTypeList": "",
+                "Language": "eng",
+                "AuthorList": {
+                    "CompleteYN": "Y",
+                    "Author": [
+                        {
+                            "ValidYN": "Y",
+                            "ForeName": "Seema K",
+                            "LastName": "Shah",
+                            "Initials": "SK",
+                            "AffiliationInfo": {"Affiliation": "a Seattle Children's Research Institute."}
+                        },
+                        {
+                            "ValidYN": "Y",
+                            "ForeName": "Kathryn",
+                            "LastName": "Porter",
+                            "Initials": "K",
+                            "AffiliationInfo": {"Affiliation": "a Seattle Children's Research Institute."}
+                        }
+                    ]
+                },
+                "ArticleTitle": "Conflicts Between Regulations and Ethical Principles: Resolving Ambiguity in Favor of the Ethically Preferable Outcome.",
+                "ELocationID": {
+                    "ValidYN": "Y",
+                    "EIdType": "doi",
+                    "content": "10.1080/15265161.2018.1431704"
+                },
+                "Journal": {
+                    "JournalIssue": {
+                        "Issue": 4,
+                        "Volume": 18,
+                        "PubDate": {
+                            "Month": "04",
+                            "Year": 2018
+                        },
+                        "CitedMedium": "Internet"
+                    },
+                    "ISOAbbreviation": "Am J Bioeth",
+                    "ISSN": {
+                        "IssnType": "Electronic",
+                        "content": "1536-0075"
+                    },
+                    "Title": "The American journal of bioethics : AJOB"
+                },
+                "PubModel": "Print"
+            },
+            "MeshHeadingList": {"MeshHeading": [
+                {"DescriptorName": {
+                    "UI": "D006801",
+                    "MajorTopicYN": "N",
+                    "content": "Humans"
+                }},
+                {"DescriptorName": {
+                    "UI": "D009014",
+                    "MajorTopicYN": "Y",
+                    "content": "Morals"
+                }}
+            ]},
+            "DateRevised": {
+                "Month": "07",
+                "Year": 2019,
+                "Day": 17
+            },
+            "PMID": {
+                "Version": 1,
+                "content": 29621448
+            }
+        },
+        "PubmedData": {
+            "History": {"PubMedPubDate": [
+                {
+                    "Month": 4,
+                    "Year": 2018,
+                    "Minute": 0,
+                    "Hour": 6,
+                    "Day": 6,
+                    "PubStatus": "entrez"
+                },
+                {
+                    "Month": 4,
+                    "Year": 2018,
+                    "Minute": 0,
+                    "Hour": 6,
+                    "Day": 6,
+                    "PubStatus": "pubmed"
+                },
+                {
+                    "Month": 6,
+                    "Year": 2019,
+                    "Minute": 0,
+                    "Hour": 6,
+                    "Day": 7,
+                    "PubStatus": "medline"
+                }
+            ]},
+            "ArticleIdList": {"ArticleId": [
+                {
+                    "content": 29621448,
+                    "IdType": "pubmed"
+                },
+                {
+                    "content": "10.1080/15265161.2018.1431704",
+                    "IdType": "doi"
+                }
+            ]},
+            "PublicationStatus": "ppublish"
+        }
+    },
+    {
+        "MedlineCitation": {
+            "Status": "MEDLINE",
+            "MedlineJournalInfo": {
+                "NlmUniqueID": 9305929,
+                "Country": "England",
+                "ISSNLinking": "1064-1963",
+                "MedlineTA": "Clin Exp Hypertens"
+            },
+            "Owner": "NLM",
+            "CitationSubset": "IM",
+            "DateCompleted": {
+                "Month": 10,
+                "Year": 2018,
+                "Day": 31
+            },
+            "IndexingMethod": "Curated",
+            "Article": {
+                "Pagination": {"MedlinePgn": "509-513"},
+                "PublicationTypeList": {"PublicationType": [
+                    {
+                        "UI": "D016446",
+                        "content": "Consensus Development Conference"
+                    },
+                    {
+                        "UI": "D016428",
+                        "content": "Journal Article"
+                    }
+                ]},
+                "ArticleDate": {
+                    "Month": "06",
+                    "Year": 2018,
+                    "DateType": "Electronic",
+                    "Day": 28
+                },
+                "Language": "eng",
+                "Abstract": {"AbstractText": [
+                    {
+                        "NlmCategory": "BACKGROUND",
+                        "Label": "BACKGROUND",
+                        "content": "Although inaccurate, non-reproducible blood pressure values can result from non-standardized assessments, recommended approaches to standardize blood pressure measurement are often not followed in research studies."
+                    },
+                    {
+                        "NlmCategory": "METHODS",
+                        "Label": "METHODS",
+                        "content": "An expert consensus of national and international health and scientific organizations developed recommended minimum standards for assessing blood pressure in research subjects where: 1) blood pressure or hypertension is a major endpoint, or 2) blood pressure is likely a major mediator of the research outcome."
+                    },
+                    {
+                        "NlmCategory": "RESULTS",
+                        "Label": "RESULTS",
+                        "content": "Minimum research standards are presented for training of observers, technical aspects of assessing blood pressure, and equipment for both adults and children."
+                    },
+                    {
+                        "NlmCategory": "CONCLUSIONS",
+                        "Label": "LIMITATIONS",
+                        "content": "The standards are based on prior recommendations some of which did not conform to the current evidence based methods."
+                    },
+                    {
+                        "NlmCategory": "CONCLUSIONS",
+                        "Label": "CONCLUSIONS",
+                        "content": "All new research should require adherence to these minimum standards on the patient populations described above. Readers need to use caution in interpreting studies if the standards are not met in the defined populations."
+                    }
+                ]},
+                "AuthorList": {
+                    "CompleteYN": "Y",
+                    "Author": {
+                        "ValidYN": "Y",
+                        "ForeName": true,
+                        "LastName": "Consortium",
+                        "Initials": "T",
+                        "AffiliationInfo": [
+                            {"Affiliation": "a American Heart Association , Dallas , USA."},
+                            {"Affiliation": "b British Hypertension Society , Edinburgh , United Kingdom."},
+                            {"Affiliation": "c Chinese Regional Office of the World Hypertension League , Beijing , China."},
+                            {"Affiliation": "d Hypertension Canada , Markham , Ontario."},
+                            {"Affiliation": "e International Council of Cardiovascular Prevention and Rehabilitation , Toronto , Canada."},
+                            {"Affiliation": "f International Society of Hypertension , Teddington , United Kingdom."},
+                            {"Affiliation": "g International Society of Nephrology , Brussels , Belgium."},
+                            {"Affiliation": "h Pan American Health Organization/World Health Organization Technical Advisory Group on Cardiovascular Diseases , Geneva , Switzerland."},
+                            {"Affiliation": "i World Hypertension League , Corvallis , USA."},
+                            {"Affiliation": "j World Stroke Organization , Geneva , Switzerland."}
+                        ]
+                    }
+                },
+                "ArticleTitle": "Recommended standards for assessing blood pressure in human research where blood pressure or hypertension is a major focus.",
+                "ELocationID": {
+                    "ValidYN": "Y",
+                    "EIdType": "doi",
+                    "content": "10.1080/10641963.2017.1281939"
+                },
+                "Journal": {
+                    "JournalIssue": {
+                        "Issue": 6,
+                        "Volume": 40,
+                        "PubDate": {"Year": 2018},
+                        "CitedMedium": "Internet"
+                    },
+                    "ISOAbbreviation": "Clin. Exp. Hypertens.",
+                    "ISSN": {
+                        "IssnType": "Electronic",
+                        "content": "1525-6006"
+                    },
+                    "Title": "Clinical and experimental hypertension (New York, N.Y. : 1993)"
+                },
+                "PubModel": "Print-Electronic"
+            },
+            "KeywordList": {
+                "Owner": "NOTNLM",
+                "Keyword": [
+                    {
+                        "MajorTopicYN": "N",
+                        "content": "Blood pressure"
+                    },
+                    {
+                        "MajorTopicYN": "N",
+                        "content": "blood pressure measurement"
+                    },
+                    {
+                        "MajorTopicYN": "N",
+                        "content": "epidemiology"
+                    },
+                    {
+                        "MajorTopicYN": "N",
+                        "content": "hypertension"
+                    },
+                    {
+                        "MajorTopicYN": "N",
+                        "content": "research"
+                    },
+                    {
+                        "MajorTopicYN": "N",
+                        "content": "research standards"
+                    }
+                ]
+            },
+            "MeshHeadingList": {"MeshHeading": [
+                {"DescriptorName": {
+                    "UI": "D000328",
+                    "MajorTopicYN": "N",
+                    "content": "Adult"
+                }},
+                {
+                    "QualifierName": {
+                        "UI": "Q000592",
+                        "MajorTopicYN": "Y",
+                        "content": "standards"
+                    },
+                    "DescriptorName": {
+                        "UI": "D035843",
+                        "MajorTopicYN": "N",
+                        "content": "Biomedical Research"
+                    }
+                },
+                {"DescriptorName": {
+                    "UI": "D001794",
+                    "MajorTopicYN": "N",
+                    "content": "Blood Pressure"
+                }},
+                {
+                    "QualifierName": [
+                        {
+                            "UI": "Q000379",
+                            "MajorTopicYN": "N",
+                            "content": "methods"
+                        },
+                        {
+                            "UI": "Q000592",
+                            "MajorTopicYN": "Y",
+                            "content": "standards"
+                        }
+                    ],
+                    "DescriptorName": {
+                        "UI": "D001795",
+                        "MajorTopicYN": "N",
+                        "content": "Blood Pressure Determination"
+                    }
+                },
+                {"DescriptorName": {
+                    "UI": "D002648",
+                    "MajorTopicYN": "N",
+                    "content": "Child"
+                }},
+                {"DescriptorName": {
+                    "UI": "D017408",
+                    "MajorTopicYN": "N",
+                    "content": "Guidelines as Topic"
+                }},
+                {"DescriptorName": {
+                    "UI": "D006801",
+                    "MajorTopicYN": "N",
+                    "content": "Humans"
+                }},
+                {
+                    "QualifierName": {
+                        "UI": "Q000175",
+                        "MajorTopicYN": "Y",
+                        "content": "diagnosis"
+                    },
+                    "DescriptorName": {
+                        "UI": "D006973",
+                        "MajorTopicYN": "N",
+                        "content": "Hypertension"
+                    }
+                },
+                {"DescriptorName": {
+                    "UI": "D056888",
+                    "MajorTopicYN": "N",
+                    "content": "Patient Positioning"
+                }},
+                {"DescriptorName": {
+                    "UI": "D012015",
+                    "MajorTopicYN": "N",
+                    "content": "Reference Standards"
+                }},
+                {
+                    "QualifierName": {
+                        "UI": "Q000193",
+                        "MajorTopicYN": "Y",
+                        "content": "education"
+                    },
+                    "DescriptorName": {
+                        "UI": "D012108",
+                        "MajorTopicYN": "N",
+                        "content": "Research Personnel"
+                    }
+                },
+                {"DescriptorName": {
+                    "UI": "D012146",
+                    "MajorTopicYN": "N",
+                    "content": "Rest"
+                }}
+            ]},
+            "DateRevised": {
+                "Month": 10,
+                "Year": 2018,
+                "Day": 31
+            },
+            "PMID": {
+                "Version": 1,
+                "content": 29953266
+            }
+        },
+        "PubmedData": {
+            "History": {"PubMedPubDate": [
+                {
+                    "Month": 6,
+                    "Year": 2018,
+                    "Minute": 0,
+                    "Hour": 6,
+                    "Day": 29,
+                    "PubStatus": "pubmed"
+                },
+                {
+                    "Month": 11,
+                    "Year": 2018,
+                    "Minute": 0,
+                    "Hour": 6,
+                    "Day": 1,
+                    "PubStatus": "medline"
+                },
+                {
+                    "Month": 6,
+                    "Year": 2018,
+                    "Minute": 0,
+                    "Hour": 6,
+                    "Day": 29,
+                    "PubStatus": "entrez"
+                }
+            ]},
+            "ArticleIdList": {"ArticleId": [
+                {
+                    "content": 29953266,
+                    "IdType": "pubmed"
+                },
+                {
+                    "content": "10.1080/10641963.2017.1281939",
+                    "IdType": "doi"
+                }
+            ]},
+            "PublicationStatus": "ppublish"
+        }
+    },
+    {
+        "MedlineCitation": {
+            "Status": "PubMed-not-MEDLINE",
+            "MedlineJournalInfo": {
+                "NlmUniqueID": "0375360",
+                "Country": "United States",
+                "ISSNLinking": "0021-9606",
+                "MedlineTA": "J Chem Phys"
+            },
+            "Owner": "NLM",
+            "Article": {
+                "Pagination": {"MedlinePgn": "89-99"},
+                "PublicationTypeList": "",
+                "ArticleDate": {
+                    "Month": "06",
+                    "Year": 1999,
+                    "DateType": "Electronic",
+                    "Day": 21
+                },
+                "Language": "eng",
+                "Abstract": {"AbstractText": {
+                    "sub": [
+                        {"i": "H"},
+                        {"i": "V"},
+                        {"i": "V"},
+                        {"i": "H"},
+                        {"i": "H"},
+                        {"i": "V"}
+                    ],
+                    "i": [
+                        "r",
+                        "r",
+                        "r",
+                        "r",
+                        "r",
+                        "r"
+                    ],
+                    "content": [
+                        "We considered the properties of the fluorescence anisotropy when the cylindrical symmetry of the fluorescence emission field is absent due to the effects of polarized light quenching. By light quenching we mean stimulated emission by a second longer wavelength pulse following the excitation pulse. In these experiments one observes the excited state population which remains following stimulated emission. When cylindrical symmetry is not present the generally known definition of the emission anisotropy cannot be applied. A generalized theory of anisotropy was described previously by Jabloński. However, we found this formalism to be inadequate for the expected experimental results of light quenching. An extension of this concept, which we call an anisotropy vector, appears capable of describing the expected orientation under all conditions of light quenching. We found that the anisotropy vector can exist within a plane defined by two projections",
+                        "and",
+                        ". The projection",
+                        "is comparable to the classical steady state or time-dependent anisotropy with cylindrical symmetry. The projection",
+                        "has no direct analogue in classical anisotropy theory. The interesting behavior of the anisotropy vector is that all possible points (",
+                        ",",
+                        ") are placed inside a certain triangle, which we call a triangle of anisotropy. For symmetrical molecules, or for molecules which display isotropic depolarizing rotations, the anisotropy vector is expected to decay on the anisotropy triangle along straight lines towards the origin. The concept of the anisotropy vector should allow predictions of the effect of polarized light quenching on the anisotropy decays, and suggests experimental methods to study anisotropy decays in the presence of light quenching. Further work is needed to apply these concepts to anisotropic rotators."
+                    ]
+                }},
+                "AuthorList": {
+                    "CompleteYN": "Y",
+                    "Author": [
+                        {
+                            "ValidYN": "Y",
+                            "ForeName": "Józef",
+                            "LastName": "Kuśba",
+                            "Initials": "J",
+                            "AffiliationInfo": {"Affiliation": "Center for Fluorescence Spectroscopy, Department of Biochemistry and Molecular Biology, University of Maryland at Baltimore, Baltimore, Maryland 21201."}
+                        },
+                        {
+                            "ValidYN": "Y",
+                            "ForeName": "Joseph R",
+                            "LastName": "Lakowicz",
+                            "Initials": "JR",
+                            "AffiliationInfo": {"Affiliation": "Center for Fluorescence Spectroscopy, Department of Biochemistry and Molecular Biology, University of Maryland at Baltimore, Baltimore, Maryland 21201."}
+                        }
+                    ]
+                },
+                "ArticleTitle": "Definition and properties of the emission anisotropy in the absence of cylindrical symmetry of the emission field: Application to the light quenching experiments.",
+                "ELocationID": {
+                    "ValidYN": "Y",
+                    "EIdType": "doi",
+                    "content": "10.1063/1.479256"
+                },
+                "Journal": {
+                    "JournalIssue": {
+                        "Issue": 1,
+                        "Volume": 111,
+                        "PubDate": {
+                            "Month": "Jul",
+                            "Year": 1999,
+                            "Day": "01"
+                        },
+                        "CitedMedium": "Internet"
+                    },
+                    "ISOAbbreviation": "J Chem Phys",
+                    "ISSN": {
+                        "IssnType": "Electronic",
+                        "content": "1089-7690"
+                    },
+                    "Title": "The Journal of chemical physics"
+                },
+                "PubModel": "Print-Electronic"
+            },
+            "DateRevised": {
+                "Month": 12,
+                "Year": 2019,
+                "Day": 13
+            },
+            "PMID": {
+                "Version": 1,
+                "content": 31834760
+            }
+        },
+        "PubmedData": {
+            "History": {"PubMedPubDate": [
+                {
+                    "Month": 12,
+                    "Year": 2019,
+                    "Minute": 0,
+                    "Hour": 6,
+                    "Day": 14,
+                    "PubStatus": "entrez"
+                },
+                {
+                    "Month": 7,
+                    "Year": 1999,
+                    "Minute": 0,
+                    "Hour": 0,
+                    "Day": 1,
+                    "PubStatus": "pubmed"
+                },
+                {
+                    "Month": 7,
+                    "Year": 1999,
+                    "Minute": 1,
+                    "Hour": 0,
+                    "Day": 1,
+                    "PubStatus": "medline"
+                }
+            ]},
+            "ArticleIdList": {"ArticleId": [
+                {
+                    "content": 31834760,
+                    "IdType": "pubmed"
+                },
+                {
+                    "content": "10.1063/1.479256",
+                    "IdType": "doi"
+                },
+                {
+                    "content": "PMC6904223",
+                    "IdType": "pmc"
+                }
+            ]},
+            "PublicationStatus": "ppublish"
+        }
+    }
+]}}
